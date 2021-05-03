@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "969240036625",
+    "firebase_url": "https://moj-grad-273516.firebaseio.com",
+    "project_id": "moj-grad-273516",
+    "storage_bucket": "moj-grad-273516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969240036625:android:0c7a6613a0581b466bb8b0",
+        "android_client_info": {
+          "package_name": "com.culdesac.mojgrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969240036625-5cdra7f4091ofiihu1484hmklivq12r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.culdesac.mojgrad",
+            "certificate_hash": "1ff2713c774d0c8b2241085c0e65ce1e2c17f2bf"
+          }
+        },
+        {
+          "client_id": "969240036625-re31t2a1amc01emqccg71gigdp1bvpbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1u_8wIEumCikXVX4Ml2DMOKZg4TRAgiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969240036625-re31t2a1amc01emqccg71gigdp1bvpbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

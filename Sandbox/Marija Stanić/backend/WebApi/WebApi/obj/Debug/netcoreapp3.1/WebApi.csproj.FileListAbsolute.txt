@@ -1,0 +1,390 @@
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\SI\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+H:\Downloads\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Marija Stanic\Desktop\MiniApp\backend\WebApi\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb

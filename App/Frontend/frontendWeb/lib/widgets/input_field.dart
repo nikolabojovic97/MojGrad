@@ -1,0 +1,61 @@
+import 'package:flutter/material.dart';
+
+class InputField extends StatelessWidget {
+  final String label;
+  final String content;
+
+  InputField({this.label, this.content});
+
+  @override
+  Widget build(BuildContext context) {
+    return LayoutBuilder(
+      builder: (BuildContext context, BoxConstraints constraints) {
+        return Row(
+          children: <Widget>[
+            Container(
+              width: 100.0,
+              child: Text(
+                "$label",
+                textAlign: TextAlign.left,
+                style: TextStyle(
+                  color: Colors.black,
+                  fontSize: 15.0,
+                ),
+              ),
+            ),
+            SizedBox(
+              width: 10.0,
+            ),
+            Container(
+              width: MediaQuery.of(context).size.width / 3.7,
+              height: 40,
+              color: Colors.green[50],
+              child: TextField(
+                style: TextStyle(
+                  fontSize: 15.0,
+                ),
+                decoration: InputDecoration(
+                  contentPadding: EdgeInsets.all(5.0),
+                  border: OutlineInputBorder(
+                    borderSide: BorderSide(
+                      color: Colors.green[50],
+                    ),
+                    borderRadius: BorderRadius.circular(10.0),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderSide: BorderSide(
+                      color: Colors.lightGreen[800],
+                    ),
+                    borderRadius: BorderRadius.circular(10.0),
+                  ),
+                  hintText: "$content",
+                  fillColor: Colors.lightGreen[800],
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
+  }
+}

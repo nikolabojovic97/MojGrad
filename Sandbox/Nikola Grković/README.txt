@@ -1,0 +1,1 @@
+Folder za smeštanje mini aplikacije.

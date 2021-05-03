@@ -1,0 +1,4 @@
+enum ConfirmAction { 
+  CANCEL, 
+  ACCEPT 
+}
